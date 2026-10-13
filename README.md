@@ -1,9 +1,9 @@
 # ML-lab-1
-# Name: Dagmawi Ephrem
-# ID: UGR/5134/16
-# STREAM: Software Stream
+## Name: Dagmawi Ephrem
+## ID: UGR/5134/16
+## STREAM: Software Stream
 
-#  Lecture 2 Practical — Data Exploration & Foundational Math
+##  Lecture 2 Practical — Data Exploration & Foundational Math
 
 This repository contains the completed assignment for Lecture 2 Practical covering:
 - Data cleaning, outlier capping , and missing value imputation.
